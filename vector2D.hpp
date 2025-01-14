@@ -1,6 +1,6 @@
 #ifndef VECTOR_HPP
 #define VECTOR_HPP
-
+//Clase generica para manejar operaciones vectoriales basicas
 #include <cmath>
 #include<iostream>
 namespace math_op  {
